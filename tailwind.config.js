@@ -8,7 +8,6 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  // mantineuiとtailwind.cssを同時に利用する場合の対策
   corePlugins: {
     preflight: false,
   },
